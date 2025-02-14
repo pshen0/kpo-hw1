@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/ZooLibrary.csproj": {}
+    "/Users/anya_psheno/hse/kpo-hw1/ZooLibrary/ZooLibrary.csproj": {}
   },
   "projects": {
-    "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/ZooLibrary.csproj": {
+    "/Users/anya_psheno/hse/kpo-hw1/ZooLibrary/ZooLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/ZooLibrary.csproj",
+        "projectUniqueName": "/Users/anya_psheno/hse/kpo-hw1/ZooLibrary/ZooLibrary.csproj",
         "projectName": "ZooLibrary",
-        "projectPath": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/ZooLibrary.csproj",
+        "projectPath": "/Users/anya_psheno/hse/kpo-hw1/ZooLibrary/ZooLibrary.csproj",
         "packagesPath": "/Users/anya_psheno/.nuget/packages/",
-        "outputPath": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/obj/",
+        "outputPath": "/Users/anya_psheno/hse/kpo-hw1/ZooLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anya_psheno/.nuget/NuGet/NuGet.Config"

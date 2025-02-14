@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ZooLibrary
-build_property.ProjectDir = /Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/
+build_property.ProjectDir = /Users/anya_psheno/hse/kpo-hw1/ZooLibrary/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

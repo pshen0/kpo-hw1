@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooConsole/ZooConsole.csproj",
+      "projectUniqueName": "/Users/anya_psheno/hse/kpo-hw1/ZooConsole/ZooConsole.csproj",
       "projectName": "ZooConsole",
-      "projectPath": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooConsole/ZooConsole.csproj",
+      "projectPath": "/Users/anya_psheno/hse/kpo-hw1/ZooConsole/ZooConsole.csproj",
       "packagesPath": "/Users/anya_psheno/.nuget/packages/",
-      "outputPath": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooConsole/obj/",
+      "outputPath": "/Users/anya_psheno/hse/kpo-hw1/ZooConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anya_psheno/.nuget/NuGet/NuGet.Config"
@@ -147,8 +147,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/ZooLibrary.csproj": {
-              "projectPath": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooLibrary/ZooLibrary.csproj"
+            "/Users/anya_psheno/hse/kpo-hw1/ZooLibrary/ZooLibrary.csproj": {
+              "projectPath": "/Users/anya_psheno/hse/kpo-hw1/ZooLibrary/ZooLibrary.csproj"
             }
           }
         }
