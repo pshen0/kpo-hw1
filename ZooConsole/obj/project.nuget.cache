@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmPAsU+ENFQ=",
+  "success": true,
+  "projectFilePath": "/Users/anya_psheno/Desktop/kpo-hw/kpo-hw1/ZooConsole/ZooConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/anya_psheno/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/anya_psheno/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
